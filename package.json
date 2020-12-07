@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
-    "@rollup/plugin-node-resolve": "^8.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
     "autoprefixer": "^10.0.2",
     "postcss": "^8.1.7",
     "rollup": "^2.3.4",
